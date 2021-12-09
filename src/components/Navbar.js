@@ -1,6 +1,8 @@
 import React, { useState } from "react";
+import "../App.css";
 import { Link } from "react-router-dom";
 import Logo from "/home/nsethblanchard/code/projects/benchmark-update/src/Logo.png";
+
 import "./Navbar.css";
 
 function Navbar() {
