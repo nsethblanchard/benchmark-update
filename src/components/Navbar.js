@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import "../BEST_logo.jpg";
+import Logo from "/home/nsethblanchard/code/projects/benchmark-update/src/Logo.png";
+import "./Navbar.css";
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -13,7 +14,7 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-            <img src="/BEST_logo.png" alt="BEST, LLC logo" />
+            <img src={Logo} alt="BEST,LLC logo" />
           </Link>
 
           <div className="menu-icon" onClick={handleClick}>
@@ -26,8 +27,8 @@ function Navbar() {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/" className="nav-links" onClick={closeMobileMenu}>
-                Services
+              <Link to="/about" className="nav-links" onClick={closeMobileMenu}>
+                About
               </Link>
             </li>
             <li className="nav-item">
