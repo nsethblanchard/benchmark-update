@@ -1,0 +1,18 @@
+.page_content {
+  margin: 55px 300px;
+}
+
+.title {
+  color: #fff;
+  text-align: center;
+  font-size: 3rem;
+  padding-bottom: 50px;
+}
+
+.mission {
+  background-color: black;
+  font-size: 1.4rem;
+  text-align: center;
+  background: rgba(129, 131, 129, 0.5);
+  color: #fff;
+}

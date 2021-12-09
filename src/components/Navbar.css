@@ -1,8 +1,8 @@
 .navbar {
   background: linear-gradient(
     90deg,
-    rgb(173, 183, 240) 0%,
-    rgb(26, 23, 23) 100%
+    rgb(224, 213, 205) 0%,
+    rgb(90, 79, 79) 100%
   );
   /* border: 5px solid rgb(0, 255, 21); */
   height: 85px;
@@ -16,7 +16,7 @@
 }
 
 .navbar-container {
-  border: 5px solid rgb(47, 0, 255);
+  /* border: 5px solid rgb(47, 0, 255); */
   margin: 25px;
 
   display: inline-block;
