@@ -4,18 +4,21 @@
     rgb(173, 183, 240) 0%,
     rgb(26, 23, 23) 100%
   );
-  height: 80px;
+  /* border: 5px solid rgb(0, 255, 21); */
+  height: 85px;
   display: flex;
-  justify-content: center;
-
+  justify-content: left;
   align-items: center;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   position: sticky;
   top: 0;
   z-index: 999;
 }
 
 .navbar-container {
+  border: 5px solid rgb(47, 0, 255);
+  margin: 25px;
+
   display: inline-block;
   display: flex;
   justify-content: center;
@@ -25,12 +28,11 @@
 }
 
 .navbar-logo {
+  /* border: 5px solid red; */
   color: #fff;
   justify-self: start;
   cursor: pointer;
   text-decoration: none;
-  display: flex;
-  align-items: center;
 }
 
 .fa-typo3 {
