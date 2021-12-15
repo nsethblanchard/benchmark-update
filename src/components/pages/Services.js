@@ -11,19 +11,34 @@ function Services() {
         />
       </div>
       <div className="page_content">
-        <h1 className="title">Services </h1>
-
-        <p className="mission">
-          BEST, LLC is a company devoted to offering top quality job search
-          services to public agencies who desire a great return on investment
-          for their clients. We offer an organized approach to finding the
-          correct solutions to employment barriers such as transportation,
-          daycare, lack of consistent job history, and general disorganization
-          that burden many low-income families. Our services are flexible and
-          can be molded to fit each individual’s background while maintaining a
-          structure that will result in quick success. We are a great link in
-          the chain to self-sufficiency and success in the workplace and life.{" "}
-        </p>
+        <h1 className="title">Available Services</h1>
+        <h3 className="subtitle">Current Services Offered</h3>
+        <ul className="mission">
+          <li>
+            Assessment of background to determine employment/barrier mitigation
+          </li>
+          <li>Resume and job search essentials</li>
+          <li>Facilitation of discussions between local community agencies</li>
+          <li>
+            Assistance with interviews and how to talk with potential employers
+          </li>
+          <li>Direct intervention with employers if needed</li>
+          <li>Scheduling of employment and responsibilities at home</li>
+          <li>
+            Help in locating transportation and child care along with job follow
+            up
+          </li>
+        </ul>
+        <h3 className="subtitle">Barriers Addressed</h3>
+        <ul className="mission">
+          <li>Educational limitations</li>
+          <li>ESL and other language issues</li>
+          <li>Transportation</li>
+          <li>Child care</li>
+          <li>Job retention problems and/or lack of job history</li>
+          <li>Criminal and drug backgrounds</li>
+          <li>Family instability</li>
+        </ul>
       </div>
     </>
   );

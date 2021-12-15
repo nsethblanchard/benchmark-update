@@ -2,6 +2,10 @@
   margin: 55px 300px;
 }
 
+ul {
+  list-style-position: inside;
+}
+
 .title {
   color: #fff;
   text-align: center;
