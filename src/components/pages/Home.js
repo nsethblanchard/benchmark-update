@@ -21,9 +21,9 @@ function Home() {
           correct solutions to employment barriers such as transportation,
           daycare, lack of consistent job history, and general disorganization
           that burden many low-income families. Our services are flexible and
-          can be molded to fit each individual’s background while maintaining a
+          can be molded to fit each individual`s background while maintaining a
           structure that will result in quick success. We are a great link in
-          the chain to self-sufficiency and success in the workplace and life.{" "}
+          the chain to self-sufficiency and success in the workplace and life.
         </p>
       </div>
       <div className="page_content">

@@ -10,16 +10,16 @@
 .subtitle {
   color: #fff;
   text-align: center;
-
-  padding-bottom: 50px;
+  font-size: 40px;
+  padding-bottom: 15px;
 }
 
 .mission {
   background-color: black;
   font-size: 1.4rem;
-  text-align: center;
-  background: rgba(129, 131, 129, 0.5);
-  border-radius: 25px;
+  padding: 10px;
+  background: rgba(129, 131, 129, 0.8);
+
   color: #fff;
 }
 
