@@ -1,5 +1,7 @@
 .page_content {
   margin: 55px 300px;
+  background: rgba(129, 131, 129, 0.7);
+  border-radius: 25px;
 }
 
 ul {
@@ -14,15 +16,13 @@ ul {
 .subtitle {
   color: #fff;
   text-align: center;
-  font-size: 40px;
+  font-size: 35px;
   padding-bottom: 15px;
 }
 
 .mission {
-  background-color: black;
   font-size: 1.4rem;
-  padding: 10px;
-  background: rgba(129, 131, 129, 0.8);
+  padding: 15px;
 
   color: #fff;
 }
