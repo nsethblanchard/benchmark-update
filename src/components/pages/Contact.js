@@ -18,7 +18,9 @@ function Contact() {
         </p>
         <p className="mission">
           By email:{" "}
-          <a href="mailto: seth.blanchard@benchmark-employment.com">
+          <a
+            className="email"
+            href="mailto: seth.blanchard@benchmark-employment.com">
             seth.blanchard@benchmark-employment.com
           </a>
         </p>

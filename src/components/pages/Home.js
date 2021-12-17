@@ -1,5 +1,6 @@
 import React from "react";
 import "./pages.css";
+import Footer from "./Footer";
 
 function Home() {
   return (
@@ -77,9 +78,10 @@ function Home() {
           getting results! Clients who are assigned to us will either have
           success or will quickly show that they do not want to participate in
           their own path to financial independence. Either way, the assigning
-          social worker receives a concrete solution in their client's case.
+          social worker receives actionable information in their client's case.
         </p>
       </div>
+      <Footer />
     </>
   );
 }

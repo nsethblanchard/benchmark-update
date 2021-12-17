@@ -4,6 +4,10 @@
   border-radius: 25px;
 }
 
+.email {
+  color: rgb(250, 233, 233);
+}
+
 ul {
   list-style-position: inside;
 }

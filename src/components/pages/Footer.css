@@ -1,0 +1,36 @@
+.footer-container {
+  background: linear-gradient(
+    90deg,
+    rgb(224, 213, 205) 0%,
+    rgb(90, 79, 79) 100%
+  );
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-link-items {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  margin: 16px;
+  text-align: left;
+  width: 160px;
+  box-sizing: border-box;
+}
+
+.footer-link-item {
+  margin: 10px 40px;
+  font-size: 1.3rem;
+}
+
+.footer-link-items a {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 768px) {
+}
