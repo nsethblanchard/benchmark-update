@@ -7,7 +7,7 @@ import Services from "./components/pages/Services";
 import Contact from "./components/pages/Contact";
 import CaseStudies from "./components/pages/CaseStudies";
 import Testimonials from "./components/pages/Testimonials";
-import FAQ from "./components/pages/FAQ";
+import FAQList from "./components/pages/FAQList";
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
           <Route path="/contact-us" element={<Contact />} />
           <Route path="/case-studies" element={<CaseStudies />} />
           <Route path="/testimonials" element={<Testimonials />} />
-          <Route path="/faqs" element={<FAQ />} />
+          <Route path="/faqs" element={<FAQList />} />
         </Routes>
       </Router>
     </>

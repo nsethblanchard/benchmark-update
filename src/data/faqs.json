@@ -1,6 +1,7 @@
 {
   "faqs": [
     {
+      "id": 1,
       "question": "Why shouldn't my agency simply utilize all of the free job services in my community?",
       "answer": [
         "You should absolutely utilize the free community services that are available for any client who is completely self-motivated, organized, has their own transportation, and understands how to manage their job search. There are plenty of people who have great success with the current employment assistance systems in place throughout your community.",
@@ -8,6 +9,7 @@
       ]
     },
     {
+      "id": 2,
       "question": "What does the typical meeting with a client look like?",
       "answer": [
         "That depends on what step in the process we are working on. The initial meeting includes a \"getting to know you\" section as well as development of a resume and discussion of basic job search principles. We discuss any barriers to employment and individualize our plan of action based on each client's need.",
@@ -16,30 +18,35 @@
       ]
     },
     {
+      "id": 3,
       "question": "How much do your services cost?",
       "answer": [
         "During the initial discussion with a new agency, BEST, LLC will determine a locality's current market for service vendors and will negotiate a competitive hourly rate based on need and available funding. Once a rate is agreed upon, it will be effective for all clients assigned through your agency, regardless of individual circumstances. We recognize that we are offering a much different service than those vendors who offer clinical or in-home services and will strive to keep our costs below that of our clinical counterparts."
       ]
     },
     {
+      "id": 4,
       "question": "Typically, how many hours are you assigned?",
       "answer": [
         "We are often asked this question and it is a difficult one to answer. The amount of hours that a client will need depends, in great part, on the circumstances of their situation. In the past, BEST, LLC has been assigned to 30 hours of job search time per calendar month. If a case worker wishes to begin services for a client mid-month, hours could be prorated. This is a completely arbitrary amount of hours per assignment, but has proven to be an effective amount of time for the average client. Occasionally, more time is needed if there are many barriers or if the assigning case worker requests additional services after employment is located."
       ]
     },
     {
+      "id": 5,
       "question": "Who would not be an ideal candidate for your services?",
       "answer": [
         "Clients who need little or no oversight in order to succeed in their goals in the agreed upon time frame as discussed with their case worker. These individuals will typically be very motivated, already have a resume and job search game plan as well as daycare and transportation lined up. They would also be familiar enough with computers to complete online applications and utilize the services of community employment resources, such as the Virginia Employment Commission."
       ]
     },
     {
+      "id": 6,
       "question": "What happens when BEST, LLC is not successful with a client?",
       "answer": [
         "With a success rate of 86% last year, we like to think that you won't even need to ask this question. Yes, 18% of the clients that we were assigned last year did not locate employment by the conclusion of our services. However, all but a very few were unsuccessful because they were unwilling to follow through with their assigned job search and were subsequently sanctioned or chose to close their TANF case. This means that you, as a case worker, were provided actionable information from our assignment that enabled you to remove these cases from your caseload."
       ]
     },
     {
+      "id": 7,
       "question": "How do I, as a case worker, begin using your services for my clients?",
       "answer": [
         "Great question! If you feel that BEST, LLC has something to offer your agency, please contact us to set up an initial discussion. Typically, we will have a meeting, discuss pricing and availability, sign your vendor contract, and produce a W-9. We can begin helping clients towards self-sufficiency before the ink has dried on the contract! We look forward to hearing from you."
